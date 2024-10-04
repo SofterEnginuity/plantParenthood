@@ -2312,7 +2312,7 @@ header .icon.circled {
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
-	color: #fff;
+	background: rgba(248, 168, 248, 0.993);
 	text-align: center;
 	padding: 7.5em 0 2em 0;
 	cursor: default;
