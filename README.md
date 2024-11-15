@@ -3,7 +3,7 @@ I am a crazy plant lady so this project was hands down my favorite!
 
 **Link to project:** https://phillyplantparenthood.netlify.app/
 
-<img src="<img src="https://i.imgur.com/7k3XgQj.pnggitp" width=40% height=40%>" width=40% height=40%>
+<img src="https://i.imgur.com/mLDR9o0.png" width=40% height=40%>
 https://i.imgur.com/mLDR9o0.png
 ## How It's Made:
 
