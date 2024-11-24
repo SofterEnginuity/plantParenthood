@@ -4,8 +4,8 @@ I am a crazy plant lady so this project was hands down my favorite!
 **Link to project:** https://phillyplantparenthood.netlify.app/
 
 <img src="https://i.imgur.com/mLDR9o0.png" width=40% height=40%>
-https://i.imgur.com/mLDR9o0.png
-## How It's Made:
+
+How It's Made:
 
 **Tech used:** HTML, CSS, Javascript
 
